@@ -20,6 +20,7 @@ function HomeCard() {
             >
               LinkedIn
             </a>
+            <br />
             <a href="https://github.com/AbuyeM1" className="ml-5">
               Github
             </a>

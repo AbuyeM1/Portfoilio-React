@@ -1,6 +1,6 @@
 import React from "react";
 import PortfolioCard from "../portfolioCard";
-import projects from "../../../src/project.json";
+import projects from "../../project.json";
 
 function Blog() {
   return (
@@ -12,13 +12,13 @@ function Blog() {
             name={projects[0].name}
             image={projects[0].image}
             project={projects[0].project}
-            location={projects[0].location}
+            Deployment={projects[0].Deployment}
           />
           <PortfolioCard
             name={projects[1].name}
             image={projects[1].image}
             project={projects[1].project}
-            location={projects[1].location}
+            Deployment={projects[1].Deployment}
           />
         </div>
 
@@ -27,14 +27,14 @@ function Blog() {
             name={projects[2].name}
             image={projects[2].image}
             project={projects[2].project}
-            location={projects[2].location}
+            Deployment={projects[2].Deployment}
           />
 
           <PortfolioCard
             name={projects[3].name}
             image={projects[3].image}
             project={projects[3].project}
-            location={projects[3].location}
+            Deployment={projects[3].Deployment}
           />
         </div>
 
@@ -43,14 +43,14 @@ function Blog() {
             name={projects[4].name}
             image={projects[4].image}
             project={projects[4].project}
-            location={projects[4].location}
+            Deployment={projects[4].Deployment}
           />
 
           <PortfolioCard
             name={projects[5].name}
             image={projects[5].image}
             project={projects[5].project}
-            location={projects[5].location}
+            Deployment={projects[5].Deployment}
           />
         </div>
       </div>
