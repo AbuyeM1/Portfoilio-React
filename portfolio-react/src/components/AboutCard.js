@@ -1,5 +1,5 @@
 import React from "react";
-import Profile from "../assets/Profile.png";
+import Profile from "../../src/assets/images/profile.png";
 
 function AboutCard() {
   return (
@@ -14,7 +14,32 @@ function AboutCard() {
       <div>
         <div className="mt-3">
           <p>I am a Fullstack Developer.</p>
-          <p></p>
+          <p>
+            {" "}
+            I am currently taking a coding boot camp class at UC Berkeley
+            extension. I am a fast learner, hardworking, friendly, and
+            team-oriented person.
+          </p>
+          <p>
+            {" "}
+            I have excellent customer service skills. I worked as an uber
+            driver, a shift supervisor at Safeway, and a draftsman in Ethiopia.
+            My Job experiences helped me develop excellent leadership, team
+            building, and communication skills.
+          </p>
+          <p>
+            {" "}
+            I enjoy nature photography and hikes. I have traveled around the bay
+            to capture pictures. I enjoy watching the sunset at the beach and
+            watching the sunrise from the mountain top. I have not watched many
+            sunrises because I am just at the beginning of my hiking journey. I
+            hope to visit more places.
+          </p>
+          <p>
+            I am passionate about social justice and social inequalities. I
+            believe in having conversations and lifting everyone regardless of
+            their racial, social, economic, and sexual background.
+          </p>
 
           <p>
             I am interested in learning about new opportunities and can be
