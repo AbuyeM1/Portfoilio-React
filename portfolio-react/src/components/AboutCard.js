@@ -53,18 +53,6 @@ function AboutCard() {
             </a>
           </p>
         </div>
-
-        <div className="card-body contactLinks">
-          <a
-            href="https://www.linkedin.com/in/abuye-mamuye-5a49921b0/"
-            className="card-link"
-          >
-            LinkedIn
-          </a>
-          <a href="https://github.com/AbuyeM1" className="card-link">
-            GitHub
-          </a>
-        </div>
       </div>
       {/* end copy paste  */}
     </div>
