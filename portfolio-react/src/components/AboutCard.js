@@ -16,9 +16,8 @@ function AboutCard() {
           <p>I am a Fullstack Developer.</p>
           <p>
             {" "}
-            I am currently taking a coding boot camp class at UC Berkeley
-            extension. I am a fast learner, hardworking, friendly, and
-            team-oriented person.
+            I Attended a coding boot camp class at UC Berkeley extension. I am a
+            fast learner, hardworking, friendly, and team-oriented person.
           </p>
           <p>
             {" "}
