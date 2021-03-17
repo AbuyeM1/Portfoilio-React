@@ -53,6 +53,14 @@ function Portfolio() {
             location={projects[5].location}
           />
         </div>
+        <div className="row">
+          <PortfolioCard
+            name={projects[6].name}
+            image={projects[6].image}
+            project={projects[6].project}
+            location={projects[6].location}
+          />
+        </div>
       </div>
     </div>
   );
