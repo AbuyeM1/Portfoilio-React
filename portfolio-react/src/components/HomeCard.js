@@ -18,11 +18,16 @@ function HomeCard() {
             <a
               href="https://www.linkedin.com/in/abuye-mamuye-5a49921b0/"
               className="ml-5"
+              style={{ color: "black" }}
             >
               LinkedIn
             </a>
             <br />
-            <a href="https://github.com/AbuyeM1" className="ml-5">
+            <a
+              href="https://github.com/AbuyeM1"
+              className="ml-5"
+              style={{ color: "black" }}
+            >
               Github
             </a>
           </div>
