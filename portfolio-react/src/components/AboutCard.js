@@ -9,7 +9,7 @@ function AboutCard() {
       <img
         src={Profile}
         alt="profile-photo"
-        className="profile float-left"
+        className="profile float-left rounded"
       ></img>
       <div>
         <div className="mt-3">

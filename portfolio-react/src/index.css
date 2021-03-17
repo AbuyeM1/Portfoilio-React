@@ -33,13 +33,6 @@ body {
   width: 90%;
 }
 
-.card > .content {
-  padding-left: 1rem;
-  padding-right: 1rem;
-  font-size: 15px;
-  height: 200px;
-}
-
 .card > .content > ul {
   list-style-type: none;
 }
@@ -83,7 +76,7 @@ body {
 }
 
 .about-container {
-  border: 1px white solid;
+  border: 1px rgb(218, 24, 24) solid;
   background-color: #afab61;
   text-justify: inter-cluster;
   margin-top: 5%;
@@ -135,6 +128,7 @@ body {
 .row-home {
   margin-top: 10%;
   margin-left: 33%;
+  border: crimson;
 }
 
 .ome-profile-photo {
