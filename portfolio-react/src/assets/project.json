@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "covid-19 Tracke",
+        "image": "../../assets/images/Project:one.png",
+        "project": "Project One",
+        "location": "https://abuyem1.github.io/COVID-19-Tracker/"
+    },
+    {
+        "id": "2",
+        "name": "Code-Quiz",
+        "image": "./src/assets/images/Coding:Quiz:challenge.png",
+        "project": "Assignment",
+        "location": "https://abuyem1.github.io/Code-Quiz/"
+    },
+    {
+        "id": "3",
+        "name": "Password-Generator",
+        "image": "",
+        "project": "Assignment",
+        "location": "https://abuyem1.github.io/Password-Generator/"
+    },
+    {
+        "id": "4",
+        "name": "Note-Taker",
+        "image": "",
+        "project": "Assignment",
+        "location": "https://sleepy-inlet-68851.herokuapp.com/"
+    },
+    {
+        "id": "5",
+        "name": "LoveConnect",
+        "image": "",
+        "project": "Project Two",
+        "location": "https://loveconnect14.herokuapp.com/"
+    },
+    {
+        "id": "6",
+        "name": "React Google Books",
+        "image": "",
+        "project": "Assignment",
+        "location": "https://abuyem1.github.io/React-Google-Books/"
+    }
+]

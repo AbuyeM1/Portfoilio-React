@@ -1,5 +1,5 @@
 import React from "react";
-import Profile from "../../src/assets/images/profile.png";
+import Profile from "../../src/assets/profile.png";
 
 function AboutCard() {
   return (
@@ -51,7 +51,6 @@ function AboutCard() {
             <a href="https://www.linkedin.com/in/abuye-mamuye-5a49921b0/">
               LinkedIn.
             </a>
-            Cheers!
           </p>
         </div>
 

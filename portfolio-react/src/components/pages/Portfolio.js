@@ -1,8 +1,8 @@
 import React from "react";
-import PortfolioCard from "../portfolioCard";
-import projects from "../../project.json";
+import PortfolioCard from "../PortfolioCard";
+import projects from "../../assets/project.json";
 
-function Blog() {
+function Portfolio() {
   return (
     <div>
       <div className="container portfolio-container">
@@ -12,13 +12,13 @@ function Blog() {
             name={projects[0].name}
             image={projects[0].image}
             project={projects[0].project}
-            Deployment={projects[0].Deployment}
+            location={projects[0].location}
           />
           <PortfolioCard
             name={projects[1].name}
             image={projects[1].image}
             project={projects[1].project}
-            Deployment={projects[1].Deployment}
+            location={projects[1].location}
           />
         </div>
 
@@ -27,14 +27,14 @@ function Blog() {
             name={projects[2].name}
             image={projects[2].image}
             project={projects[2].project}
-            Deployment={projects[2].Deployment}
+            location={projects[2].location}
           />
 
           <PortfolioCard
             name={projects[3].name}
             image={projects[3].image}
             project={projects[3].project}
-            Deployment={projects[3].Deployment}
+            location={projects[3].location}
           />
         </div>
 
@@ -43,14 +43,14 @@ function Blog() {
             name={projects[4].name}
             image={projects[4].image}
             project={projects[4].project}
-            Deployment={projects[4].Deployment}
+            location={projects[4].location}
           />
 
           <PortfolioCard
             name={projects[5].name}
             image={projects[5].image}
             project={projects[5].project}
-            Deployment={projects[5].Deployment}
+            location={projects[5].location}
           />
         </div>
       </div>
@@ -58,4 +58,4 @@ function Blog() {
   );
 }
 
-export default Blog;
+export default Portfolio;

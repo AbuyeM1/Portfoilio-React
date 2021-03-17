@@ -6,16 +6,16 @@ import ContactCard from "../ContactCard";
 function Contact(props) {
   return (
     <div>
-      <Link
+      {/* <Link
         to={`${props.match.url}/learn`}
         role="button"
         className="btn btn-link bg-light"
       >
         Learn More
-      </Link>{" "}
-      <Link to="/contact" role="button" className="btn btn-link bg-light">
+      </Link>{" "} */}
+      {/* <Link to="/contact" role="button" className="btn btn-link bg-light">
         Learn Less
-      </Link>
+      </Link> */}
       <Route exact path={`${props.match.url}/Resume`} component={Resume} />
       <ContactCard />
     </div>

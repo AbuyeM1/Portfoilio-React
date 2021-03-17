@@ -71,12 +71,12 @@ height: 400px;;
 }
 
 body {
-  background-image: url("./assets/images/background.png"); /* The image used */
-  background-color: #cccccc; /* Used if the image is unavailable */
-  min-height: 1300px; /* You must set a specified height */
-  background-position: center; /* Center the image */
-  background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: cover; /* Resize the background image to cover the entire container */
+  background-image: url("./assets/background.png"); 
+  background-color: #cccccc;
+  min-height: 1300px; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover; 
 }
 
 .nav-tabs {
@@ -92,15 +92,12 @@ body {
 .about-container {
    border: 1px white solid;
   background-color:  #afab61; 
-  text-align: red;
+  text-justify: inter-cluster;
   margin-top: 5%; 
   padding: 10px;
   margin-left:5%;
   margin-right:5%;
-  /* width: 50%;
   
-  height: 600px;
-  */
    
 }
 
@@ -115,6 +112,8 @@ body {
   height: auto;
   margin-left: 75px;
   margin-top: 15px;
+
+  
   
 }
 
@@ -124,13 +123,13 @@ body {
   bottom: 0;
   width: 100%;
   background-color:  teal;
-  color: white;
+  color: rgb(14, 13, 13);
   text-align: center;
   border-top: 3px solid #2220b4;
 }
 
 .contact-card {
-border: 1px white solid;
+border: 1px rgb(48, 28, 28) solid;
 background-color:  #fffdd0;
 width: 25%;
 margin-left: 35%;

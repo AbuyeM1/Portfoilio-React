@@ -1,5 +1,5 @@
 import React from "react";
-import Profile from "../../src/assets/images/profile.png";
+import Profile from "../../src/assets/profile.png";
 
 function HomeCard() {
   return (

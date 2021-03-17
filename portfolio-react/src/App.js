@@ -5,7 +5,7 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Home from "./components/pages/Home";
 import About from "./components/pages/About";
-import Blog from "./components/pages/Blog";
+import Portfolio from "./components/pages/Portfolio";
 import Resume from "./components/pages/Resume";
 import Contact from "./components/pages/Contact";
 
@@ -17,7 +17,7 @@ function App() {
         <Navbar />
         <Route exact path="/" component={Home} />
         <Route exact path="/about" component={About} />
-        <Route exact path="/blog" component={Blog} />
+        <Route exact path="/portfolio" component={Portfolio} />
         <Route path="/resume" component={Resume} />
         <Route path="/contact" component={Contact} />
         <Footer />

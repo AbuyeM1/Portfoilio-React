@@ -1,5 +1,5 @@
 import React from "react";
-import ContactPNG from "../assets/images/contact.png";
+import ContactPNG from "../assets/contact.png";
 
 function ContactCard(props) {
   return (
@@ -7,24 +7,19 @@ function ContactCard(props) {
       <div className="card">
         <h1 className="text-center">Contact Me</h1>
         <div className="card-content">
-          <a href="tel:+7147860736" className="ml-4 mt-4 font-weight-bold">
-            Phone
-          </a>
-
-          <a
-            href="https://abuye20@yahoo.com"
-            className="ml-4 mt-4 font-weight-bold"
-          >
+          <a href="#" className="ml-4 mt-4 font-weight-bold">
             Email
+            <br />
+            Abuye20@yahoo.com
           </a>
-
+          <br />
           <a
             href="https://www.linkedin.com/in/abuye-mamuye-5a49921b0/"
             className="ml-4 mt-4 font-weight-bold"
           >
             LinkedIn
           </a>
-
+          <br />
           <a
             href="https://github.com/AbuyeM1"
             className="ml-4 mt-4 font-weight-bold"
