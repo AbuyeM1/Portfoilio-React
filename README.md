@@ -15,7 +15,13 @@
 - [Acknowledgments](#Acknowledgments)
 
 ## Description
+
 This is a demo of my portfolio that is built using React and React Router. Bootstrap has also been used to make the design responsive.
+
+## Video
+
+![Video](./portfolio-react/src/assets/React.gif)
+
 ## Deployed Link
 
 - [Deploy link](https://abuyem1.github.io/Portfolio-React/)
