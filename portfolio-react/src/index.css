@@ -142,3 +142,6 @@ body {
   width: 50%;
   height: 50%;
 }
+.text-center {
+  text-decoration: black;
+}

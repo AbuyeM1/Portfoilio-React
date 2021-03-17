@@ -43,17 +43,28 @@ function AboutCard() {
           <p>
             I am interested in learning about new opportunities and can be
             reached through this portfolio, by email:
-            <a href="Abuye20@yahoo.com" target="_blank">
+            <a
+              href="Abuye20@yahoo.com"
+              target="_blank"
+              style={{ color: "Red" }}
+            >
               Abuye20@yahoo.com,{" "}
             </a>{" "}
-            through<a href="https://github.com/AbuyeM1"> GitHub</a>, or through{" "}
-            <a href="https://www.linkedin.com/in/abuye-mamuye-5a49921b0/">
+            through
+            <a href="https://github.com/AbuyeM1" style={{ color: "Red" }}>
+              {" "}
+              GitHub
+            </a>
+            , or through{" "}
+            <a
+              href="https://www.linkedin.com/in/abuye-mamuye-5a49921b0/"
+              style={{ color: "Red" }}
+            >
               LinkedIn.
             </a>
           </p>
         </div>
       </div>
-      {/* end copy paste  */}
     </div>
   );
 }

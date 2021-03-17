@@ -7,7 +7,11 @@ function ContactCard(props) {
       <div className="card">
         <h1 className="text-center">Contact Me</h1>
         <div className="card-content">
-          <a href="#" className="ml-4 mt-4 font-weight-bold">
+          <a
+            href="#"
+            className="ml-4 mt-4 font-weight-bold"
+            style={{ color: "black" }}
+          >
             Email
             <br />
             Abuye20@yahoo.com
@@ -16,6 +20,7 @@ function ContactCard(props) {
           <a
             href="https://www.linkedin.com/in/abuye-mamuye-5a49921b0/"
             className="ml-4 mt-4 font-weight-bold"
+            style={{ color: "black" }}
           >
             LinkedIn
           </a>
@@ -23,6 +28,7 @@ function ContactCard(props) {
           <a
             href="https://github.com/AbuyeM1"
             className="ml-4 mt-4 font-weight-bold"
+            style={{ color: "black" }}
           >
             GitHub
           </a>
