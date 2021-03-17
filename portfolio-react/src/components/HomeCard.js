@@ -12,6 +12,7 @@ function HomeCard() {
               alt="home-profile-photo"
               className="ome-profile-photo mb-3"
             ></img>
+            <h3>Welcome!</h3>
             <h5 className="card-title text-center">Full Stack Web developer</h5>
             <p className="card-text text-center"></p>
             <a
