@@ -30,7 +30,7 @@ This is a demo of my portfolio that is built using React and React Router. Boots
 
 - React
 - NodeJS
-- Bootstrap
+- React Bootstrap
 - JavaScript
 - HTML5
 - CSS
