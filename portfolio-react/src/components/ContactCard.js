@@ -8,7 +8,7 @@ function ContactCard(props) {
         <h1 className="text-center">Contact Me</h1>
         <div className="card-content">
           <a
-            href="#"
+            href="mailto:Abuye20@yahoo.com"
             className="ml-4 mt-4 font-weight-bold"
             style={{ color: "black" }}
           >

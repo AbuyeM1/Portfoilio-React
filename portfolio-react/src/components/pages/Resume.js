@@ -8,7 +8,7 @@ function Resume() {
         <h1 className="text-center">Resume</h1>
         <div className="card-content">
           <a
-            href="https://abuye20@yahoo.com"
+            href="mailto:Abuye20@yahoo.com"
             className="ml-4 mt-4 font-weight-bold"
             style={{ color: "black" }}
           >
