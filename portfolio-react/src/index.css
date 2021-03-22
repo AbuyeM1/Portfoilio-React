@@ -139,3 +139,6 @@ body {
 .text-center {
   text-decoration: black;
 }
+.profile {
+  float: left;
+}
