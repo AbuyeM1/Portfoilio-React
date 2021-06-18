@@ -13,7 +13,7 @@ function AboutCard() {
       ></img>
       <div>
         <div className="mt-3">
-          <p>I am a Fullstack Developer.</p>
+          <p>I am a Full stack Web Developer.</p>
           <p>
             {" "}
             I Attended a coding boot camp class at UC Berkeley extension. I am a

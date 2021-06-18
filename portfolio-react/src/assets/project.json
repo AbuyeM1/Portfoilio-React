@@ -5,6 +5,7 @@
         "image": "https://www.theborneopost.com/newsimages/2020/05/logo-covid-19-1.gif",
         "project": "Project One",
         "location": "https://abuyem1.github.io/COVID-19-Tracker/"
+        
     },
     {
         "id": "2",
@@ -39,13 +40,13 @@
         "name": "React Google Books",
         "image": "https://cdn.dribbble.com/users/80158/screenshots/578283/bookshelf_iphone_icon.png",
         "project": "Assignment",
-        "location": "https://abuyem1.github.io/React-Google-Books/"
+        "location": "https://react-googlebooksapi-search.herokuapp.com"
     },
     {
         "id": "7",
         "name": "The Herald",
         "image": "https://cdn0.iconfinder.com/data/icons/iconshock-windows7-icons/256/world_info.png",
         "project": "Project Three",
-        "location": "https://herald-worldnewapp.herokuapp.com/"
+        "location":"https://herald-worldnewapp.herokuapp.com/"
     }
 ]

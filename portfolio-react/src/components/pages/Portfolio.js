@@ -1,7 +1,7 @@
 import React from "react";
 import PortfolioCard from "../PortfolioCard";
 import projects from "../../assets/project.json";
-
+import { Link } from "react-router-dom";
 function Portfolio() {
   return (
     <div>
@@ -14,6 +14,7 @@ function Portfolio() {
             project={projects[0].project}
             location={projects[0].location}
           />
+
           <PortfolioCard
             name={projects[1].name}
             image={projects[1].image}
