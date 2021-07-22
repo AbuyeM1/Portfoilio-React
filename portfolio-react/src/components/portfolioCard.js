@@ -14,6 +14,7 @@ function PortfolioCard(props) {
           <li>
             <strong>Project:</strong> {props.project}
           </li>
+
           <li>
             <strong>Demo: </strong>
             {props.location}

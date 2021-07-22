@@ -10,7 +10,7 @@ function Resume() {
           <a
             href="mailto:Abuye20@yahoo.com"
             className="ml-4 mt-4 font-weight-bold"
-            style={{ color: "black" }}
+            style={{ color: "blue" }}
           >
             Email
             <br />
@@ -20,23 +20,23 @@ function Resume() {
           <a
             href="https://www.linkedin.com/in/abuye-mamuye-5a49921b0/"
             className="ml-4 mt-4 font-weight-bold"
-            style={{ color: "black" }}
+            style={{ color: "blue" }}
           >
-            LinkedIn ___
+            LinkedIn
           </a>
-
+          <br />
           <a
             href="https://github.com/AbuyeM1"
             className="ml-4 mt-4 font-weight-bold"
-            style={{ color: "black" }}
+            style={{ color: "blue" }}
           >
             GitHub
           </a>
 
           <img src={ResumePNG} alt="profile-photo" className="resumePNG"></img>
-          <a href="https://drive.google.com/file/d/1P2EdjqSMh9CRXw_qDy4GbgI5inLbwuPm/view?usp=sharing">
+          <a href="https://drive.google.com/file/d/1I0_JyfAv-h-gqsyVusKtCZmt3hS2JbGe/view?usp=sharing">
             <h1 className="text-center mt-5 " style={{ color: "red" }}>
-              View Here
+              Click to View Here
             </h1>
           </a>
         </div>

@@ -1,5 +1,6 @@
 import React from "react";
 import ContactPNG from "../assets/contact.png";
+import { Link } from "react-router-dom";
 
 function ContactCard(props) {
   return (
@@ -10,7 +11,7 @@ function ContactCard(props) {
           <a
             href="mailto:Abuye20@yahoo.com"
             className="ml-4 mt-4 font-weight-bold"
-            style={{ color: "black" }}
+            style={{ color: "blue" }}
           >
             Email
             <br />
@@ -20,7 +21,7 @@ function ContactCard(props) {
           <a
             href="https://www.linkedin.com/in/abuye-mamuye-5a49921b0/"
             className="ml-4 mt-4 font-weight-bold"
-            style={{ color: "black" }}
+            style={{ color: "blue" }}
           >
             LinkedIn
           </a>
@@ -28,7 +29,7 @@ function ContactCard(props) {
           <a
             href="https://github.com/AbuyeM1"
             className="ml-4 mt-4 font-weight-bold"
-            style={{ color: "black" }}
+            style={{ color: "blue" }}
           >
             GitHub
           </a>
