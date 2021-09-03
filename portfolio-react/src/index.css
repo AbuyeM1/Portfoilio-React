@@ -33,12 +33,13 @@ body {
   width: 90%;
 }
 
-.card > .content > ul {
-  list-style-type: none;
+.port-card {
+  margin-left: 20%;
 }
 
 .card > .content > ul > li {
   margin-top: 18px;
+  margin-left: 10%;
 }
 
 .port-card {
@@ -119,6 +120,9 @@ body {
 
 .contactLinks {
   margin-left: 35%;
+}
+.title {
+  text-align: center;
 }
 
 .card-home {

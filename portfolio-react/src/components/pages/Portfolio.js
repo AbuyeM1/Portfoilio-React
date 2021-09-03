@@ -1,11 +1,11 @@
 import React from "react";
 import PortfolioCard from "../PortfolioCard";
 import projects from "../../assets/project.json";
-import { Link } from "react-router-dom";
+
 function Portfolio() {
   return (
     <div>
-      <div className="container portfolio-container">
+      <div className="container portfolio-container rounded">
         <h1 className="title">Projects List</h1>
         <div className="row">
           <PortfolioCard
@@ -36,6 +36,7 @@ function Portfolio() {
             image={projects[3].image}
             project={projects[3].project}
             location={projects[3].location}
+            Heroku={projects[3].Heroku}
           />
         </div>
 
@@ -45,6 +46,7 @@ function Portfolio() {
             image={projects[4].image}
             project={projects[4].project}
             location={projects[4].location}
+            Heroku={projects[4].Heroku}
           />
 
           <PortfolioCard
@@ -52,6 +54,7 @@ function Portfolio() {
             image={projects[5].image}
             project={projects[5].project}
             location={projects[5].location}
+            Heroku={projects[5].Heroku}
           />
         </div>
         <div className="row">
@@ -60,6 +63,7 @@ function Portfolio() {
             image={projects[6].image}
             project={projects[6].project}
             location={projects[6].location}
+            Heroku={projects[6].Heroku}
           />
         </div>
       </div>
