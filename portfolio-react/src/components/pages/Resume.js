@@ -34,7 +34,7 @@ function Resume() {
           </a>
 
           <img src={ResumePNG} alt="profile-photo" className="resumePNG"></img>
-          <a href="https://drive.google.com/file/d/1I0_JyfAv-h-gqsyVusKtCZmt3hS2JbGe/view?usp=sharing">
+          <a href="https://drive.google.com/file/d/1lMZcQvq4RDS78WXkjAslJuHMlc9achwz/view?usp=sharing">
             <h1 className="text-center mt-5 " style={{ color: "red" }}>
               Click to View Here
             </h1>

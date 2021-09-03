@@ -17,7 +17,7 @@ function PortfolioCard(props) {
 
           <li>
             <strong>Demo: </strong>
-            {props.location}
+            <a href={props.location}>Depoy Link</a>
           </li>
         </ul>
       </div>
