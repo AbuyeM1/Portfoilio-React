@@ -1,24 +1,27 @@
 {
   "files": {
-    "main.css": "/Portfolio-React/static/css/main.0098449e.chunk.css",
-    "main.js": "/Portfolio-React/static/js/main.a80578f6.chunk.js",
-    "main.js.map": "/Portfolio-React/static/js/main.a80578f6.chunk.js.map",
+    "main.css": "/Portfolio-React/static/css/main.d121c816.chunk.css",
+    "main.js": "/Portfolio-React/static/js/main.74f758ee.chunk.js",
+    "main.js.map": "/Portfolio-React/static/js/main.74f758ee.chunk.js.map",
     "runtime-main.js": "/Portfolio-React/static/js/runtime-main.cc98a62e.js",
     "runtime-main.js.map": "/Portfolio-React/static/js/runtime-main.cc98a62e.js.map",
-    "static/js/2.554cd04b.chunk.js": "/Portfolio-React/static/js/2.554cd04b.chunk.js",
-    "static/js/2.554cd04b.chunk.js.map": "/Portfolio-React/static/js/2.554cd04b.chunk.js.map",
+    "static/js/2.ca648ee4.chunk.js": "/Portfolio-React/static/js/2.ca648ee4.chunk.js",
+    "static/js/2.ca648ee4.chunk.js.map": "/Portfolio-React/static/js/2.ca648ee4.chunk.js.map",
     "index.html": "/Portfolio-React/index.html",
-    "static/css/main.0098449e.chunk.css.map": "/Portfolio-React/static/css/main.0098449e.chunk.css.map",
-    "static/js/2.554cd04b.chunk.js.LICENSE.txt": "/Portfolio-React/static/js/2.554cd04b.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/Portfolio-React/static/media/codeprogramming.453c1754.jpg",
+    "static/css/main.d121c816.chunk.css.map": "/Portfolio-React/static/css/main.d121c816.chunk.css.map",
+    "static/js/2.ca648ee4.chunk.js.LICENSE.txt": "/Portfolio-React/static/js/2.ca648ee4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Portfolio-React/static/media/background-.0c565c58.png",
     "static/media/contact.16e52474.png": "/Portfolio-React/static/media/contact.16e52474.png",
+    "static/media/email.782d1871.png": "/Portfolio-React/static/media/email.782d1871.png",
+    "static/media/github.96997ac2.png": "/Portfolio-React/static/media/github.96997ac2.png",
+    "static/media/linkedin.d748a62d.png": "/Portfolio-React/static/media/linkedin.d748a62d.png",
     "static/media/profile.48fdf55d.png": "/Portfolio-React/static/media/profile.48fdf55d.png",
     "static/media/resume.a440911b.png": "/Portfolio-React/static/media/resume.a440911b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.cc98a62e.js",
-    "static/js/2.554cd04b.chunk.js",
-    "static/css/main.0098449e.chunk.css",
-    "static/js/main.a80578f6.chunk.js"
+    "static/js/2.ca648ee4.chunk.js",
+    "static/css/main.d121c816.chunk.css",
+    "static/js/main.74f758ee.chunk.js"
   ]
 }
