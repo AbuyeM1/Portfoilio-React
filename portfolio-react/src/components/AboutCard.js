@@ -45,11 +45,7 @@ function AboutCard() {
             <p>
               I am interested in learning about new opportunities and can be
               reached through this portfolio, by email:
-              <a
-                href="meilto:Abuye20@yahoo.com"
-                target="_blank"
-                style={{ color: "Red" }}
-              >
+              <a href="meilto:Abuye20@yahoo.com" style={{ color: "Red" }}>
                 Abuye20@yahoo.com,{" "}
               </a>{" "}
               through

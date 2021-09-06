@@ -21,7 +21,6 @@ function ContactCard() {
           <div className="socials">
             <a
               className="contact-img"
-              target="_blank"
               href="https://www.linkedin.com/in/abuye-mamuye-5a49921b0/"
             >
               <img src={linkedin} alt="Linkedin" />
@@ -29,7 +28,7 @@ function ContactCard() {
             <a target="_blank" href="https://github.com/AbuyeM1">
               <img src={github} alt="Github" />
             </a>
-            <a target="_blank" href="mailto:abuye20@yahoo.com">
+            <a href="mailto:abuye20@yahoo.com">
               <img src={email} alt="Email" />
             </a>
             <a href="https://drive.google.com/file/d/1lMZcQvq4RDS78WXkjAslJuHMlc9achwz/view?usp=sharing">
