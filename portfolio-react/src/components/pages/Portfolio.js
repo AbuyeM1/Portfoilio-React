@@ -1,72 +1,25 @@
 import React from "react";
 import PortfolioCard from "../PortfolioCard";
-import projects from "../../assets/project.json";
+import project from "../../assets/project";
+
+function crteatePortfolioCard(project) {
+  return (
+    <div>
+      <PortfolioCard
+        name={project.name}
+        image={project.image}
+        project={project.project}
+        location={project.location}
+      />
+    </div>
+  );
+}
 
 function Portfolio() {
   return (
-    <div>
-      <div className="container portfolio-container rounded">
-        <h1 className="title">Projects List</h1>
-        <div className="row">
-          <PortfolioCard
-            name={projects[0].name}
-            image={projects[0].image}
-            project={projects[0].project}
-            location={projects[0].location}
-          />
-
-          <PortfolioCard
-            name={projects[1].name}
-            image={projects[1].image}
-            project={projects[1].project}
-            location={projects[1].location}
-          />
-        </div>
-
-        <div className="row">
-          <PortfolioCard
-            name={projects[2].name}
-            image={projects[2].image}
-            project={projects[2].project}
-            location={projects[2].location}
-          />
-
-          <PortfolioCard
-            name={projects[3].name}
-            image={projects[3].image}
-            project={projects[3].project}
-            location={projects[3].location}
-            Heroku={projects[3].Heroku}
-          />
-        </div>
-
-        <div className="row">
-          <PortfolioCard
-            name={projects[4].name}
-            image={projects[4].image}
-            project={projects[4].project}
-            location={projects[4].location}
-            Heroku={projects[4].Heroku}
-          />
-
-          <PortfolioCard
-            name={projects[5].name}
-            image={projects[5].image}
-            project={projects[5].project}
-            location={projects[5].location}
-            Heroku={projects[5].Heroku}
-          />
-        </div>
-        <div className="row">
-          <PortfolioCard
-            name={projects[6].name}
-            image={projects[6].image}
-            project={projects[6].project}
-            location={projects[6].location}
-            Heroku={projects[6].Heroku}
-          />
-        </div>
-      </div>
+    <div className=" portfolio-container rounded">
+      <h1 className="title-h1">Projects List</h1>
+      <p className="portfolio">{project.map(crteatePortfolioCard)}</p>
     </div>
   );
 }

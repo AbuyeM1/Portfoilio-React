@@ -1,4 +1,6 @@
-[
+     
+     [
+
     {
         "id": "1",
         "name": "covid-19 Tracker",
@@ -26,27 +28,32 @@
         "name": "Note-Taker",
         "image": "https://tse3.mm.bing.net/th?id=OIP.FHDCl7IMAPm7_vhE0NEu8gHaHa&pid=Api&P=0&w=300&h=300",
         "project": "Assignment",
-        "Heroku": "https://sleepy-inlet-68851.herokuapp.com/"
+        "location":"https://sleepy-inlet-68851.herokuapp.com/"
+        
     },
     {
         "id": "5",
         "name": "LoveConnect",
         "image": "https://media.istockphoto.com/photos/love-connection-picture-id496353186?k=6&m=496353186&s=170667a&w=0&h=WHRypi61igx-E-pR55eHOyrML49dxZSaaWa7IbD64Cc=",
         "project": "Project Two",
-        "Heroku": "https://loveconnect14.herokuapp.com/"
+        "location":"https://loveconnect14.herokuapp.com/"
+        
     },
     {
         "id": "6",
         "name": "React Google Books",
         "image": "https://cdn.dribbble.com/users/80158/screenshots/578283/bookshelf_iphone_icon.png",
         "project": "Assignment",
-        "Heroku": "https://react-googlebooksapi-search.herokuapp.com"
+        "location":"https://react-googlebooksapi-search.herokuapp.com"
+        
     },
     {
         "id": "7",
         "name": "The Herald",
         "image": "https://cdn0.iconfinder.com/data/icons/iconshock-windows7-icons/256/world_info.png",
         "project": "Project Three",
-        "Heroku":"https://herald-worldnewapp.herokuapp.com/"
+        "location":"https://herald-worldnewapp.herokuapp.com/"
+        
     }
 ]
+

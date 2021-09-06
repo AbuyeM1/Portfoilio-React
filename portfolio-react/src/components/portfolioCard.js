@@ -6,7 +6,7 @@ function PortfolioCard(props) {
       <div className="img-container rounded">
         <img alt={props.name} src={props.image} />
       </div>
-      <div className="content">
+      <div className="about-container">
         <ul>
           <li>
             <strong>Name:</strong> {props.name}
@@ -17,9 +17,7 @@ function PortfolioCard(props) {
 
           <li>
             <strong>Demo: </strong>
-            <a href={props.location} href={props.Heroku}>
-              GitHub Deploy Link
-            </a>
+            <a href={props.location}> Deploy Link</a>
           </li>
         </ul>
       </div>

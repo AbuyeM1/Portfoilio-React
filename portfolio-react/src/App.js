@@ -6,7 +6,7 @@ import Footer from "./components/Footer";
 import Home from "./components/pages/Home";
 import About from "./components/pages/About";
 import Portfolio from "./components/pages/Portfolio";
-import Resume from "./components/pages/Resume";
+
 import Contact from "./components/pages/Contact";
 
 function App() {
@@ -18,7 +18,7 @@ function App() {
         <Route exact path="/" component={Home} />
         <Route exact path="/about" component={About} />
         <Route exact path="/portfolio" component={Portfolio} />
-        <Route path="/resume" component={Resume} />
+
         <Route path="/contact" component={Contact} />
         <Footer />
       </div>
