@@ -5,11 +5,11 @@
     "main.js.map": "/Portfolio-React/static/js/main.26f90d8f.chunk.js.map",
     "runtime-main.js": "/Portfolio-React/static/js/runtime-main.cc98a62e.js",
     "runtime-main.js.map": "/Portfolio-React/static/js/runtime-main.cc98a62e.js.map",
-    "static/js/2.a7d48142.chunk.js": "/Portfolio-React/static/js/2.a7d48142.chunk.js",
-    "static/js/2.a7d48142.chunk.js.map": "/Portfolio-React/static/js/2.a7d48142.chunk.js.map",
+    "static/js/2.de52ad96.chunk.js": "/Portfolio-React/static/js/2.de52ad96.chunk.js",
+    "static/js/2.de52ad96.chunk.js.map": "/Portfolio-React/static/js/2.de52ad96.chunk.js.map",
     "index.html": "/Portfolio-React/index.html",
     "static/css/main.d121c816.chunk.css.map": "/Portfolio-React/static/css/main.d121c816.chunk.css.map",
-    "static/js/2.a7d48142.chunk.js.LICENSE.txt": "/Portfolio-React/static/js/2.a7d48142.chunk.js.LICENSE.txt",
+    "static/js/2.de52ad96.chunk.js.LICENSE.txt": "/Portfolio-React/static/js/2.de52ad96.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Portfolio-React/static/media/background-.0c565c58.png",
     "static/media/contact.16e52474.png": "/Portfolio-React/static/media/contact.16e52474.png",
     "static/media/email.782d1871.png": "/Portfolio-React/static/media/email.782d1871.png",
@@ -20,7 +20,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.cc98a62e.js",
-    "static/js/2.a7d48142.chunk.js",
+    "static/js/2.de52ad96.chunk.js",
     "static/css/main.d121c816.chunk.css",
     "static/js/main.26f90d8f.chunk.js"
   ]
